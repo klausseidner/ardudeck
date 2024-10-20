@@ -1,4 +1,4 @@
-![Logo Ardudeck](https://github.com/klausseidner/ardudeck/blob/main/ardudeck.png)
+![Logo Ardudeck](https://github.com/klausseidner/ardudeck/blob/main/logo.png)
 
 
 # Ardudeck

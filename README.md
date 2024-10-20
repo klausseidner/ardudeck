@@ -1,3 +1,6 @@
+![Logo Ardudeck](https://github.com/klausseidner/ardudeck/blob/main/ardudeck.png)
+
+
 # Ardudeck
 
 **Ardudeck** é um dispositivo IoT modular desenvolvido para automação e monitoramento de ambientes domésticos e industriais, utilizando a plataforma Arduino. O projeto visa oferecer uma solução acessível e personalizável para o controle de variáveis como temperatura, umidade, iluminação e automação de dispositivos. Criado por Klaus Seidner como parte de um projeto paralelo ao projeto acadêmico na Universidade Estácio de Sá, o Ardudeck integra estudantes, empresas de IoT e a comunidade técnica para criar um dispositivo fácil de usar e eficiente.

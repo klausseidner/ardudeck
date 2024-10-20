@@ -38,7 +38,7 @@ O projeto Ardudeck envolve várias partes interessadas, incluindo:
 | **Etapa**                      | **Tempo**      | **Descrição**                                                     |
 | ------------------------------ | -------------- | ----------------------------------------------------------------- |
 | Pesquisa e coleta de requisitos | 3 dias         | Entrevistas, reuniões online, relatórios semanais                 |
-| Design do protótipo             | 2 dias         | Desenvolvimento no Arduino IDE, reuniões de progresso             |
+| Design do protótipo             | 2 dias         | Desenvolvimento no VSCode IDE, reuniões de progresso             |
 | Desenvolvimento do dispositivo  | 2 dias       | Montagem do protótipo com sensores e atuadores                    |
 | Testes em campo                 | 1 semana     | Feedback de usuários e ajustes no protótipo                       |
 | Avaliação e ajustes finais      | 2 semanas    | Revisão geral e análise de indicadores                            |

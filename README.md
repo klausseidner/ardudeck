@@ -1,27 +1,27 @@
 # Ardudeck
 
-**Ardudeck** é um dispositivo IoT modular desenvolvido para automação e monitoramento de ambientes domésticos e industriais, utilizando a plataforma Arduino. O projeto visa oferecer uma solução acessível e personalizável para o controle de variáveis como temperatura, umidade, iluminação e automação de dispositivos. Criado por Klaus Seidner como parte de um projeto acadêmico na Universidade Estácio de Sá, o Ardudeck integra estudantes, empresas de IoT e a comunidade técnica para criar um dispositivo fácil de usar e eficiente.
+**Ardudeck** é um dispositivo IoT modular desenvolvido para automação e monitoramento de ambientes domésticos e industriais, utilizando a plataforma Arduino. O projeto visa oferecer uma solução acessível e personalizável para o controle de variáveis como temperatura, umidade, iluminação e automação de dispositivos. Criado por Klaus Seidner como parte de um projeto paralelo ao projeto acadêmico na Universidade Estácio de Sá, o Ardudeck integra estudantes, empresas de IoT e a comunidade técnica para criar um dispositivo fácil de usar e eficiente.
 
 ## Objetivos do Projeto
 
-- Desenvolver um dispositivo IoT acessível e adaptável para automações domésticas e industriais.
-- Permitir o controle eficiente de variáveis como iluminação, climatização e produção em ambientes diversos.
-- Facilitar a adoção de tecnologias IoT com uma solução de automação fácil de configurar e utilizar.
-- Integrar o ensino prático de IoT na formação de estudantes, preparando-os para as demandas do mercado de automação.
+- Desenvolver um dispositivo IoT acessível e adaptável para automações domésticas e industriais. (Um dispositivo pequeno e versátil)
+- Permitir o controle eficiente de variáveis como iluminação, climatização e produção em ambientes diversos. (Já incluso no dispositivo)
+- Facilitar a adoção de tecnologias IoT com uma solução de automação fácil de configurar e utilizar. (Interface gráfica usando a biblioteca Flask no Python)
+- Integrar o ensino prático de IoT na formação de estudantes, preparando-os para as demandas do mercado de automação. (Mostrando como os circuitos padrões funcionam)
 
 ## Características do Ardudeck
 
-- **Automação de Sensores**: Monitoramento de variáveis como temperatura e umidade através de sensores de baixo custo.
-- **Atuação de Dispositivos**: Controle automatizado de dispositivos como iluminação e sistemas de climatização.
-- **Modularidade**: Fácil integração de novos sensores e atuadores para diferentes aplicações.
-- **Conectividade**: Integração com serviços de nuvem para coleta de dados e monitoramento remoto.
+- **Automação de Sensores**: Monitoramento de variáveis como temperatura e umidade através de sensores de baixo custo e com visualização Web integrando a "internet das coisas".
+- **Atuação de Dispositivos**: Controle automatizado de dispositivos como iluminação e sistemas de climatização. (Utilizando os atuadores para efetuar os controles de dispositivos)
+- **Modularidade**: Fácil integração de novos sensores e atuadores para diferentes aplicações. (Disponibilizando um led para aleta visual e interruptores para facil acesso á qualquer porta do arduino)
+- **Conectividade**: Integração com serviços de nuvem para coleta de dados e monitoramento remoto. (Com a biblioteca Flask é possivel uma construção de uma api para integração á qualquer sistema)
 - **Simplicidade de Uso**: Programação baseada em Arduino, com foco em soluções de fácil implementação.
 
 ## Tecnologias Utilizadas
 
 - **Hardware**: Placa Arduino, sensores de temperatura, umidade e outros atuadores. <<ESPECIFICAR TODOS COMPONENTES>>
-- **Software**: Programação em Python no VSCode IDE, integração com serviços de nuvem para monitoramento.
-- **Bibliotecas**: <<ESPECIFICAR>>
+- **Software**: Programação em Python no VSCode IDE, integração com serviços de nuvem para monitoramento através de API.
+- **Bibliotecas**: Flask (Python)
 
 ## Colaboradores
 
@@ -32,13 +32,13 @@ O projeto Ardudeck envolve várias partes interessadas, incluindo:
 
 ## Cronograma do Projeto
 
-| **Etapa**                      | **Prazo**        | **Descrição**                                                     |
-| ------------------------------ | ---------------- | ----------------------------------------------------------------- |
-| Pesquisa e coleta de requisitos | Semana 1         | Entrevistas, reuniões online, relatórios semanais                 |
-| Design do protótipo             | Semana 2-3       | Desenvolvimento no Arduino IDE, reuniões de progresso             |
-| Desenvolvimento do dispositivo  | Semana 4-6       | Montagem do protótipo com sensores e atuadores                    |
-| Testes em campo                 | Semana 7-8       | Feedback de usuários e ajustes no protótipo                       |
-| Avaliação e ajustes finais      | Semana 9-10      | Revisão geral e análise de indicadores                            |
+| **Etapa**                      | **Tempo**      | **Descrição**                                                     |
+| ------------------------------ | -------------- | ----------------------------------------------------------------- |
+| Pesquisa e coleta de requisitos | 3 dias         | Entrevistas, reuniões online, relatórios semanais                 |
+| Design do protótipo             | 2 dias         | Desenvolvimento no Arduino IDE, reuniões de progresso             |
+| Desenvolvimento do dispositivo  | 2 dias       | Montagem do protótipo com sensores e atuadores                    |
+| Testes em campo                 | 1 semana     | Feedback de usuários e ajustes no protótipo                       |
+| Avaliação e ajustes finais      | 2 semanas    | Revisão geral e análise de indicadores                            |
 
 ## Como Contribuir
 

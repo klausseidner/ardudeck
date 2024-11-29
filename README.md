@@ -3,7 +3,7 @@
 
 # Ardudeck
 
-**Ardudeck** é um dispositivo IoT modular desenvolvido para automação e monitoramento de ambientes domésticos e industriais, utilizando a plataforma Arduino. O projeto visa oferecer uma solução acessível e personalizável para o controle de variáveis como temperatura, umidade, iluminação e automação de dispositivos. Criado por Klaus Seidner como parte de um projeto paralelo ao projeto acadêmico na Universidade Estácio de Sá, o Ardudeck integra estudantes, empresas de IoT e a comunidade técnica para criar um dispositivo fácil de usar e eficiente.
+**Ardudeck** é um dispositivo IoT modular desenvolvido para automação e monitoramento de ambientes domésticos e industriais, utilizando a plataforma Arduino. O projeto visa oferecer uma solução acessível e personalizável para o controle de variáveis como temperatura, umidade, iluminação e automação de dispositivos. O Ardudeck integra estudantes, empresas de IoT e a comunidade técnica para criar um dispositivo fácil de usar e eficiente.
 
 ## Objetivos do Projeto
 
@@ -37,11 +37,11 @@ O projeto Ardudeck envolve várias partes interessadas, incluindo:
 
 | **Etapa**                      | **Tempo**      | **Descrição**                                                     |
 | ------------------------------ | -------------- | ----------------------------------------------------------------- |
-| Pesquisa e coleta de requisitos | 3 dias         | Entrevistas, reuniões online, relatórios semanais                 |
-| Design do protótipo             | 2 dias         | Desenvolvimento no VSCode IDE, reuniões de progresso             |
-| Desenvolvimento do dispositivo  | 2 dias       | Montagem do protótipo com sensores e atuadores                    |
-| Testes em campo                 | 1 semana     | Feedback de usuários e ajustes no protótipo                       |
-| Avaliação e ajustes finais      | 2 semanas    | Revisão geral e análise de indicadores                            |
+| Pesquisa e coleta de requisitos | -------------- | Entrevistas, reuniões online, relatórios semanais                 |
+| Design do protótipo             | -------------- | Desenvolvimento no VSCode IDE, reuniões de progresso             |
+| Desenvolvimento do dispositivo  | -------------- | Montagem do protótipo com sensores e atuadores                    |
+| Testes em campo                 | -------------- | Feedback de usuários e ajustes no protótipo                       |
+| Avaliação e ajustes finais      | -------------- | Revisão geral e análise de indicadores                            |
 
 ## Como Contribuir
 
